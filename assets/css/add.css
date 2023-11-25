@@ -1,0 +1,9 @@
+.form-center {
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px; /* Establece un ancho máximo al formulario */
+    margin: 0 auto; /* Centra el formulario horizontalmente */
+}
